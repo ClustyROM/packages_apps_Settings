@@ -3785,7 +3785,7 @@ found in the list of installed apps.</string>
     <string name="additional_system_update_settings_list_item_title">Additional system updates</string>
 
     <string name="quick_links_title">Quick Links</string>
-    <string name="rom_control_title">ROM Control</string>
+    <string name="rom_control_title">Clusty Control</string>
 
     <!-- Display | Backlight -->
 	<string name="backlight_title">Custom backlight settings</string>
@@ -3829,7 +3829,7 @@ found in the list of installed apps.</string>
     <string name="ll_bad_levels">Levels must be increasing</string>
     <string name="ll_num_levels">Set number of levels</string>
     
-    <string name="mod_version">Mod version</string>
+    <string name="mod_version">ROM Version</string>
     <string name="link_volume_ringtones">Link volumes</string>
     <string name="link_volume_mutes">Link mute states</string>    
 </resources>

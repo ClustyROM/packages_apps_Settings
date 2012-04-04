@@ -609,6 +609,9 @@
     <string name="sound_effects_enable_title" msgid="1171590821131077296">"Sons des touches"</string>
     <string name="lock_sounds_enable_title" msgid="450098505659399520">"Son au verrouillage écran"</string>
     <string name="haptic_feedback_enable_title" msgid="2438293710530828760">"Vibrer au toucher"</string>
+	<!-- Sound settings screen, setting check box label -->
+	<string name="camera_sounds_title">Activer le son de la caméra</string>
+	<string name="camera_sounds_summary">ATTENTION: Désactiver le son de la caméra est illégale dans certaines régions!</string>
     <string name="audio_record_proc_title" msgid="4271091199976457534">"Suppression du bruit"</string>
     <string name="volume_media_description" msgid="7949355934788807863">"Musique, vidéo, jeux et autres fichiers multimédias"</string>
     <string name="volume_ring_description" msgid="5936851631698298989">"Sonnerie et notifications"</string>
